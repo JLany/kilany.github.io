@@ -1,0 +1,37 @@
+html {
+    font-size: 10px;
+    font-family: 'Gotu', sans-serif;
+    background-color: #E94933;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #E94933;
+    text-shadow: 2px 2px 10px black;
+    font-size: 60px;
+    text-align: center;
+}
+p, li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+body {
+    width: 900px;
+    margin: 20px auto;
+    background-color: #FF0A0A;
+    padding: 0 40px 40px 40px;
+    border: 2.5px solid black;
+}
+img {
+    width: 210px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+}
+button {
+    background-color: black;
+    -webkit-text-fill-color: red;
+    font-family: 'Gotu', sans-serif;
+    border-color: blue;
+}
